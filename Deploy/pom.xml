@@ -55,7 +55,6 @@
  	
   </dependencies>
   <build>
-    <!--  <finalName>Spring4MVCHelloWorld</finalName> -->
-    <finalName>ROOT.war</finalName>
+      <finalName>Spring4MVCHelloWorld</finalName>    
   </build>
 </project>
